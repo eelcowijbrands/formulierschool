@@ -1,0 +1,26 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+
+
+body {
+    color: #FFE4B3;
+    text-align: center;
+    background-color: rgb(61, 81, 159);
+}
+
+form {
+    font-size: 175%; 
+    margin: 0 auto; 
+    width:250px;
+    }
+
+
+.container {
+    clear: both;
+  }
+  
+  .container input {
+    width: 100%;
+    clear: both;
+  }
